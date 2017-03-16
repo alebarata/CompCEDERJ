@@ -1,5 +1,5 @@
 # CompCEDERJ
-Repository of students of the Tecnologia em Sistemas da Computaçã course at the Universidade Federal Fluminense
+Repository of students of the Tecnologia em Sistemas da Computação course at the Universidade Federal Fluminense
 Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Universidade Federal Fluminense
 
 ## [Drive](https://goo.gl/UPc92N)
@@ -98,7 +98,7 @@ Não possui acesso às pastas das matérias no drive? Tente acessar com seu emai
 
 - Programação com Interfaces Gráficas
 
-    [Whatsapp]() => Ainda não tem
+    [Whatsapp](https://chat.whatsapp.com/1b6r6pqf9zU5givcte6K34)
     
     [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTU09GNGNhdmFyMGc)
     
@@ -113,7 +113,7 @@ Não possui acesso às pastas das matérias no drive? Tente acessar com seu emai
 
 - Modelagem de Informação
 
-    [Whatsapp]() => Ainda não tem
+    [Whatsapp](https://chat.whatsapp.com/CQ3ZI2iLhsJGdTdaPTB8wi)
     
     [Drive](https://drive.google.com/open?id=0B09LpkQ_E4zTTWVxbEdiT1lUYkE)
     
