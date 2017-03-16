@@ -5,6 +5,10 @@ Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Un
 ## [Drive](https://goo.gl/UPc92N)
 Não possui acesso às pastas das matérias no drive? Tente acessar com seu email da UFF (@id.uff.br), ou envie envie um [email para thiagoborges@id.uff.br](mailto:thiagoborges@id.uff.br) pedindo acesso.
 
+## [Telegram](https://t.me/computacaoUFF)
+
+## [Slack](https://slack-compcederj.herokuapp.com/)
+
 ## Grupos no Whatsapp:
 - [Computação 2016.2](https://chat.whatsapp.com/2r5Sz373pztAoeVxt339T4) 
 - [Calouros](https://chat.whatsapp.com/GTjUqlbKgraIzYDzQGViqY)
