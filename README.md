@@ -2,7 +2,7 @@
 Repository of students of the Tecnologia em Sistemas da Computaçã course at the Universidade Federal Fluminense
 Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Universidade Federal Fluminense
 
-## Disciplinas:
+## Grupos no Whatsapp:
 - [Computação 2016.2](https://chat.whatsapp.com/2r5Sz373pztAoeVxt339T4) 
 - [Calouros](https://chat.whatsapp.com/GTjUqlbKgraIzYDzQGViqY)
 
