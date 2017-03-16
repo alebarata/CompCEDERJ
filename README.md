@@ -9,6 +9,11 @@ Não possui acesso às pastas das matérias no drive? Tente acessar com seu emai
 
 ## [Slack](https://slack-compcederj.herokuapp.com/)
 
+## [YouTube - SOS CompCEDERJ](https://www.youtube.com/channel/UCfL4Poo2CW2ww9MCcWWvasA)
+
+## [HD do CompCEDERJ](https://onedrive.live.com/?authkey=%21AIZLFUL1M2GDyyk&id=589E18067CE99545%21522&cid=589E18067CE99545)
+        Levem a mal, não... Mas o Drive é muito melhor...
+
 ## Grupos no Whatsapp:
 - [Computação 2016.2](https://chat.whatsapp.com/2r5Sz373pztAoeVxt339T4) 
 - [Calouros](https://chat.whatsapp.com/GTjUqlbKgraIzYDzQGViqY)
