@@ -2,6 +2,9 @@
 Repository of students of the Tecnologia em Sistemas da Computaçã course at the Universidade Federal Fluminense
 Repositório dos alunos do curso de Tecnologia em Sistemas da Computação da Universidade Federal Fluminense
 
+## [Drive](https://goo.gl/UPc92N)
+Não possui acesso às pastas das matérias no drive? Tente acessar com seu email da UFF (@id.uff.br), ou envie envie um [email para thiagoborges@id.uff.br](mailto:thiagoborges@id.uff.br) pedindo acesso.
+
 ## Grupos no Whatsapp:
 - [Computação 2016.2](https://chat.whatsapp.com/2r5Sz373pztAoeVxt339T4) 
 - [Calouros](https://chat.whatsapp.com/GTjUqlbKgraIzYDzQGViqY)
